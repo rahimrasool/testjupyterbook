@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book - Now adding a few more edits
+# Welcome to your Jupyter Book - Version 1.0
 
 This is a small sample book to give you a feel for how book content is
 structured.
