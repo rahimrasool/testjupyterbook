@@ -1,0 +1,4 @@
+jupyter-book~=0.13
+matplotlib~=3.5
+numpy~=1.23
+ghp-import~=2.1
